@@ -32,17 +32,24 @@
 
         <nav>
             <ul class="nav-links">
-                <li id="home"><a href="/" {% if page.title =="Intro" %}class="active-page"{% endif %}>Introduction
-                </a></li>
-                <li id="platforms"><a href="/sensor_platforms" {% if page.title == "Platforms" %}class="active-page"{%
-                endif %}Sensor Platforms></li>
-                <li id="sensors"><a href="/sensors" {% if page.title == "Sensors" %}class="active-page"{% endif
-                    %}>Sensors</a></li>
-                <li id="data_processing"><a href="/data_processing" {% if page.title == "Data Processing"
-                    %}class="active-page"{% endif
-                    %}>Data Processing></a></li>
-                <li><a href="/applications" {% if page.title == "Applications" %}class="active-page"{% endif
-                    %}>Applications></a></li>
+                <li id="home">
+                    <a href="/" {% if page.title =="Intro" %}class="active-page"{% endif %}>Introduction</a>
+                </li>
+                <li id="platforms">
+                    <a href="/sensor_platforms" {% if page.title == "Platforms" %}class="active-page"{%
+                    endif %}>Sensor Platforms</a>
+                </li>
+                <li id="sensors">
+                    <a href="/sensors" {% if page.title == "Sensors" %}class="active-page"{% endif %}>Sensors</a>
+                </li>
+                <li id="data_processing">
+                    <a href="/data_processing" {% if page.title == "Data Processing"
+                    %}class="active-page"{% endif %}>Data Processing</a>
+                </li>
+                <li id="applications">
+                    <a href="/applications" {% if page.title == "Applications"
+                    %}class="active-page"{% endif %}>Applications</a>
+                </li>
             </ul>
         </nav>
     </header>

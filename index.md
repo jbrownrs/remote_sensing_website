@@ -9,12 +9,10 @@ permalink: /
 ## What is remote sensing?
 
 The term 'remote sensing' was coined in the early 1960s by Evelyn Pruitt at the 
-Geography Branch of the US Office of Naval Research [[1]](#1). Broadly, remote sensing
-is 
-
-
-
-vs Earth Observation
+Geography Branch of the US Office of Naval Research [[1]](#1). Broadly, remote sensing 
+is acquiring information about objects or phenomena, without direct contact, by measuring 
+emitted and reflected electromagnetic radiation. The term Earth Observation refers to remote sensing 
+of the Earth's systems.
 
 You can use the [editor on GitHub](https://github.com/jbrownrs/remote_sensing_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
