@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sensors
-permalink: /sensors
+permalink: {{ "/sensors" | relative_url }}
 ---
 
 # Sensors

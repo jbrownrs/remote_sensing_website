@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Remote Sensing
-permalink: /
+permalink: {{ "/"  | relative_url }}
 ---
 
 # Introduction 

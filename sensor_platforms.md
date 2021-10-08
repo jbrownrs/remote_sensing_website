@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Platforms
-permalink: /sensor_platforms
+permalink: {{ "/sensor_platforms" | relative_url }}
 ---
 
 # Sensor platforms
